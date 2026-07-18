@@ -50,6 +50,7 @@ https://webkin.site/
 
 - **JavaScript** — отчёт в профиле
 - **JavaScript + TypeScript** — отчёт в профиле
+- **Linus** - https://career.habr.com/tests/skills/31696/report
 
 <br/>
 
