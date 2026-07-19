@@ -80,6 +80,13 @@ https://github.com/wwwebkin/vacancy
 `HTML5` `CSS` `JavaScript` `REST API`
 
 --------------------
+ФАКТ - поисковик с нейросетью которая отдает только важную и проверенную инфу.
+
+https://github.com/wwwebkin/fact
+
+`HTML5` `CSS` `JavaScript` `Node.js` `Express` `REST API`
+
+--------------------
 Работаю в серверной части (VPS/VDS на базе Ubuntu); занимаюсь поднятием VPN и поддерживанием его работоспособности; Спроектирую телеграмм бота с его последующий деплоем.
 
 `Linux` `VPS` `Xray` `Telegram Bot API`
